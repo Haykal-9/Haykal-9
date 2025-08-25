@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **M Haykal Lazuardy**.<br>
+
+Saya Seorang Mahasiswa di Telkom University Bandung
+
+Saya Mengambil Jurusan D3 Sistem Informasi
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/haykal-lazuardy-339152333) ku ya.
 
 <!--
 **Haykal-9/Haykal-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
